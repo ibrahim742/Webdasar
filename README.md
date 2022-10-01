@@ -8,7 +8,7 @@
 ### 5. Tag `<link>` untuk memberikan acces ke file baru, contoh seperti memanggil CSS Tag `<target="blank>`  yang membuka jangkar di jendela baru (yang telah diarahkan ke tab dengan pengaturan browser biasanya). `<target="self">` Ini membuka jangkar di bingkai yang sama. `<targe="top">`Ini memecah di luar semua frame yang bersarang di dalamnya dan membuka tautan sebagai dokumen teratas di jendela browser. `<targe=parent>` dibiarkan menjadi misteri bagi mereka yang tidak terbiasa dengan masa-masa membangun situs iframe sebagai tren.
 ##### Menambahkan Gambar
 ini adalah tampilannya
-![Gambar 1](Gambar/satu.jpg)
+![Gambar 1](Gambar/satu.png)
 
 Tugas Pemograman Web Pertemuan ke-2
 
